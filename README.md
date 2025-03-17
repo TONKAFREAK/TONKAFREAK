@@ -32,7 +32,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TONKAFREAK&count_private=true&show_icons=true&theme=dark&hide=issues,contribs&hide_title=true&border_color=black&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TONKAFREAK&count_private=true&show_icons=true&theme=dark&hide=issues,contribs&hide_title=true&border_color=black&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TONKAFREAK&layout=compact&count_private=true&include_all_commits=true&hide=html,css)
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/solayjon/)
