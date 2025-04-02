@@ -2,10 +2,6 @@
 
 ## Full-Stack Developer 
 
-### 🔭 Current Projects
-- Synthema.ai: AI Study buddy & Flashcards from books/PDFs
-- Rivalnet: Social media like tracker for Marvel Rivals
-
 # 💻 Tech Stack
 
 ## Languages
