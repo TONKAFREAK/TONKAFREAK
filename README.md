@@ -53,6 +53,14 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white)
 
+### AI Coding & Agents
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-20232A?style=for-the-badge)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-B58A4C?style=for-the-badge&logoColor=white)
+![Ruflo](https://img.shields.io/badge/Ruflo-6D28D9?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-181818?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+
 ### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
