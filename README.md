@@ -80,15 +80,15 @@
 ## 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TONKAFREAK&amp;show_icons=true&amp;theme=dark_github&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true" />
-  <img alt="Jon's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=TONKAFREAK&amp;show_icons=true&amp;theme=light_github&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TONKAFREAK&amp;show_icons=true&amp;theme=dark_github&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true&amp;show=contributions&amp;hide=commits%2Cprs%2Cissues%2Ccontribs&amp;custom_title=GitHub+Activity&amp;number_format=long" />
+  <img alt="Jon's public and private GitHub contributions" src="https://github-stats-extended.vercel.app/api?username=TONKAFREAK&amp;show_icons=true&amp;theme=light_github&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true&amp;show=contributions&amp;hide=commits%2Cprs%2Cissues%2Ccontribs&amp;custom_title=GitHub+Activity&amp;number_format=long" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TONKAFREAK&amp;layout=compact&amp;langs_count=8&amp;theme=dark_github&amp;hide_border=true&amp;disable_animations=true" />
   <img alt="Most used languages in public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TONKAFREAK&amp;layout=compact&amp;langs_count=8&amp;theme=light_github&amp;hide_border=true&amp;disable_animations=true" />
 </picture>
 
-*Stats reflect public GitHub activity.*
+*The contribution total includes public and private activity across all years. Stars and language stats reflect public repositories.*
 
 ### 📫 Connect With Me
 
