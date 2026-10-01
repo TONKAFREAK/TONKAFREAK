@@ -71,8 +71,14 @@
 
 ## 📊 GitHub Stats
 
-![Jon's GitHub stats](https://github-stats-extended.vercel.app/api?username=TONKAFREAK&show_icons=true&theme=transparent&hide_rank=true&hide_border=true&disable_animations=true)
-![Most used languages in public repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=TONKAFREAK&layout=compact&langs_count=8&theme=transparent&hide_border=true&disable_animations=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TONKAFREAK&amp;show_icons=true&amp;theme=dark_github&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true" />
+  <img alt="Jon's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=TONKAFREAK&amp;show_icons=true&amp;theme=light_github&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TONKAFREAK&amp;layout=compact&amp;langs_count=8&amp;theme=dark_github&amp;hide_border=true&amp;disable_animations=true" />
+  <img alt="Most used languages in public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TONKAFREAK&amp;layout=compact&amp;langs_count=8&amp;theme=light_github&amp;hide_border=true&amp;disable_animations=true" />
+</picture>
 
 *Stats reflect public GitHub activity.*
 
